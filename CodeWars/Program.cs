@@ -6,9 +6,32 @@ namespace AlgoProblems
     {
         static void Main(string[] args)
         {
-            int area = shapeArea(3);
-            Console.WriteLine(area);
+            int[] statuesArray = { 6, 2, 3, 8 };
+            int count = ConsecutiveStatues(statuesArray);
+            Console.WriteLine(count);
      
+        }
+
+        static int ConsecutiveStatues(int[] statues)
+        {
+           Array.Sort(statues);
+           int count = 0;
+           int leftPointer = 0;
+           int rightPointer = 1;
+            while(leftPointer < statues.Length -1 ) 
+            {
+                Console.WriteLine("Lp: " + leftPointer);
+
+                int difference = statues[rightPointer] - statues[leftPointer];
+                Console.WriteLine("diff: " + difference);
+                if(difference > 1 ) 
+                {
+                    count += (difference - 1);
+                }             
+                leftPointer++;
+                rightPointer++;
+            }
+           return count;
         }
 
         static int shapeArea(int n)
