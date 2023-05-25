@@ -1,0 +1,15 @@
+C:\Users\Justin Keowen\Desktop\C#Learning\CodeWars\CodeWars\bin\Debug\net6.0\AlgoProblems.exe
+C:\Users\Justin Keowen\Desktop\C#Learning\CodeWars\CodeWars\bin\Debug\net6.0\AlgoProblems.deps.json
+C:\Users\Justin Keowen\Desktop\C#Learning\CodeWars\CodeWars\bin\Debug\net6.0\AlgoProblems.runtimeconfig.json
+C:\Users\Justin Keowen\Desktop\C#Learning\CodeWars\CodeWars\bin\Debug\net6.0\AlgoProblems.dll
+C:\Users\Justin Keowen\Desktop\C#Learning\CodeWars\CodeWars\bin\Debug\net6.0\AlgoProblems.pdb
+C:\Users\Justin Keowen\Desktop\C#Learning\CodeWars\CodeWars\obj\Debug\net6.0\AlgoProblems.csproj.AssemblyReference.cache
+C:\Users\Justin Keowen\Desktop\C#Learning\CodeWars\CodeWars\obj\Debug\net6.0\AlgoProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin Keowen\Desktop\C#Learning\CodeWars\CodeWars\obj\Debug\net6.0\AlgoProblems.AssemblyInfoInputs.cache
+C:\Users\Justin Keowen\Desktop\C#Learning\CodeWars\CodeWars\obj\Debug\net6.0\AlgoProblems.AssemblyInfo.cs
+C:\Users\Justin Keowen\Desktop\C#Learning\CodeWars\CodeWars\obj\Debug\net6.0\AlgoProblems.csproj.CoreCompileInputs.cache
+C:\Users\Justin Keowen\Desktop\C#Learning\CodeWars\CodeWars\obj\Debug\net6.0\AlgoProblems.dll
+C:\Users\Justin Keowen\Desktop\C#Learning\CodeWars\CodeWars\obj\Debug\net6.0\refint\AlgoProblems.dll
+C:\Users\Justin Keowen\Desktop\C#Learning\CodeWars\CodeWars\obj\Debug\net6.0\AlgoProblems.pdb
+C:\Users\Justin Keowen\Desktop\C#Learning\CodeWars\CodeWars\obj\Debug\net6.0\AlgoProblems.genruntimeconfig.cache
+C:\Users\Justin Keowen\Desktop\C#Learning\CodeWars\CodeWars\obj\Debug\net6.0\ref\AlgoProblems.dll
